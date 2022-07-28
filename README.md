@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/tkApIfibjeWt1ufWwj/giphy.gif" align="right" width="350" height="250">
+<img src="https://media.giphy.com/media/tkApIfibjeWt1ufWwj/giphy.gif" align="right" width="300" height="250">
 
 ### Hi there, I'm Hümeyra. :raising_hand:
 
