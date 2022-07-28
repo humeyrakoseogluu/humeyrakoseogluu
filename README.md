@@ -6,8 +6,8 @@
 I'm a final-year Computer Engineering student at the University of Akdeniz. Thanks to the projects, community events and internships I participated in, I had the opportunity to improve myself in teamwork and project management. I am an ambitious person who reinforces what I have learned, is willing to work, open to more experience and learning.<br />
 Work History:<br />
 <!-- WORK HISTORY:START -->
--[August 2021 - September 2021   Magna International / IT Intern]
--[June 2022 - August 2022   Mavi Yazılım ArGe Ltd. Şti / Software Developer Intern]
+-August 2021 - September 2021   Magna International / IT Intern<br />
+-June 2022 - August 2022   Mavi Yazılım ArGe Ltd. Şti / Software Developer Intern<br />
 <!-- YOUTUBE:END -->
 
 ### Connect with me:
@@ -17,7 +17,6 @@ Work History:<br />
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
 
-<br />
 <br />
 
 ### Languages and Tools:
