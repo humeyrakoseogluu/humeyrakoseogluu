@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Hümeyra. :raising_hand:
 
-## Final-Year Computer Engineering Student 
+## Final-Year Computer Engineering Student / Front-End Developer
 I'm a final-year Computer Engineering student at the University of Akdeniz. Thanks to the projects, community events and internships I participated in, I had the opportunity to improve myself in teamwork and project management. I am an ambitious person who reinforces what I have learned, is willing to work, open to more experience and learning.<br /><br />
 Work History:<br />
 <!-- WORK HISTORY:START -->
@@ -11,12 +11,11 @@ Work History:<br />
 <!-- YOUTUBE:END -->
 
 ### Connect with me:
-
+humeyrakoseogluu@gmail.com<br /><br />
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][youtube]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
-
 <br />
 
 ### Languages and Tools:
