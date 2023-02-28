@@ -8,6 +8,7 @@ Work History:<br />
 <!-- WORK HISTORY:START -->
 -August 2021 - September 2021   Magna International / IT Intern<br />
 -June 2022 - August 2022   Mavi Yazılım ArGe Ltd. Şti / Software Developer Intern<br />
+-March 2023 - Present Finance Office of the Presidency of Türkiye / Intern <br />
 <!-- YOUTUBE:END -->
 
 ### Connect with me:
