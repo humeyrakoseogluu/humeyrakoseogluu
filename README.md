@@ -17,6 +17,8 @@ humeyrakoseogluu@gmail.com<br /><br />
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
+[<img  width="22" src="https://unpkg.com/simple-icons@4.25.0/icons/medium.svg" align="left" />][medium]
+
 <br />
 
 ### Languages and Tools:
@@ -55,3 +57,4 @@ humeyrakoseogluu@gmail.com<br /><br />
 [twitter]: https://twitter.com/slmbenhumeyra?s=09
 [linkedin]: https://www.linkedin.com/in/humeyrakoseoglu/
 [instagram]: https://www.instagram.com/humeyrakoseoglu/
+[medium]: https://medium.com/@humeyrakoseogluu
