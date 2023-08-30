@@ -2,34 +2,39 @@
 
 ### Hi there, I'm Hümeyra. :raising_hand:
 
-## Final-Year Computer Engineering Student
-I'm a final-year Computer Engineering student at the University of Akdeniz. Thanks to the projects, community events and internships I participated in, I had the opportunity to improve myself in teamwork and project management. I am an ambitious person who reinforces what I have learned, is willing to work, open to more experience and learning.<br /><br />
+## Computer Engineer
+As a graduate in Computer Engineering from Akdeniz University. Thanks to the projects, community events and internships I participated in, I had the opportunity to improve myself in teamwork and project management. I am an ambitious person who reinforces what I have learned, is willing to work, open to more experience and learning.<br /><br />
 Work History:<br />
 <!-- WORK HISTORY:START -->
 -August 2021 - September 2021   Magna International / IT Intern<br />
 -June 2022 - August 2022   Mavi Yazılım ArGe Ltd. Şti / Software Developer Intern<br />
--March 2023 - Present Finance Office of the Presidency of Türkiye / Intern <br />
+-March 2023 - Present Finance Office of the Presidency of Türkiye / Software Developer Intern <br />
 <!-- YOUTUBE:END -->
 
 ### Connect with me:
 humeyrakoseogluu@gmail.com<br /><br />
+[<img  width="22" src="https://unpkg.com/simple-icons@4.25.0/icons/medium.svg" align="left" />][medium]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/youtube.svg" align="left" />][youtube]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
-[<img  width="22" src="https://unpkg.com/simple-icons@4.25.0/icons/medium.svg" align="left" />][medium]
+
 
 <br />
 
-### Languages and Tools:
+### Languages, Frameworks and Tools:
 
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="30" height="30" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" width="30" height="30"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="30" height="30" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="30" height="30" />
+<img align="left" src="https://skillicons.dev/icons?i=spring" width="30" height="30" />  
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="30" height="30" />  
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30" height="30" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="30" height="30" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" height="30" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" height="30" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="30" height="30" />
 
 <br />
 
