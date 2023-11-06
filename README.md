@@ -7,8 +7,9 @@ As a graduate in Computer Engineering from Akdeniz University. Thanks to the pro
 Work History:<br />
 <!-- WORK HISTORY:START -->
 -August 2021 - September 2021   Magna International / IT Intern<br />
--June 2022 - August 2022   Mavi Yazılım ArGe Ltd. Şti / Software Developer Intern<br />
--March 2023 - Present Finance Office of the Presidency of Türkiye / Software Developer Intern <br />
+-June 2022 - August 2022   Mavi R&D Software Development Company / Software Developer Intern<br />
+-March 2023 - Present Finance Office of the Presidency of Türkiye / Part Time Software Developer <br />
+-November 2023 - Shopi Retail Software Development Company / Software Test Engineer <br />
 <!-- YOUTUBE:END -->
 
 ### Connect with me:
