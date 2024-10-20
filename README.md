@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Hümeyra. :raising_hand:
 
-## Computer Engineer
+## Software Test Engineer Engineer
 As a graduate in Computer Engineering from Akdeniz University. Thanks to the projects, community events and internships I participated in, I had the opportunity to improve myself in teamwork and project management. I am an ambitious person who reinforces what I have learned, is willing to work, open to more experience and learning.<br /><br />
 Work History:<br />
 <!-- WORK HISTORY:START -->
@@ -10,6 +10,7 @@ Work History:<br />
 -June 2022 - August 2022   Mavi R&D Software Development Company / Software Developer Intern<br />
 -March 2023 - November 2023 Finance Office of the Presidency of Türkiye / Part Time Software Developer <br />
 -November 2023 - January 2024 Shopi Retail Software Development Company / Software Test Engineer <br />
+-June 2024 - Current Huawei Technologies Co. Ltd / Software Test Engineer <br />
 <!-- YOUTUBE:END -->
 
 ### Connect with me:
